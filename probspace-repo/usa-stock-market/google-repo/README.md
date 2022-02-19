@@ -10,6 +10,7 @@
  - しかしPublic Scoreが0.04938と悪く、次のLightGBMへ
 
 2. Probstock007.jpynb
+ - Public Score: 0.03713　Private Score:0.03724 10位
  -  コンペ参加者の[DT-SN](https://comp.probspace.com/users/DT-SN/0)さん公開の「[LightGBM Base line(LB=0.03781)](https://comp.probspace.com/topics/DT-SN-Posta3d47ae1bcea01c64bd5)」を（大いに）参考
  - ARIMAモデルを提出してから、別の勉強をしていてやり直しが12月1日から
  - 時間的なこともあるがLightBGMが初めてということもありその解読に力点
