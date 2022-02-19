@@ -4,3 +4,8 @@
 - 評価方法：評価関数RMSLE(Root Mean Squared Logarithmic Error)
  <img src="https://latex.codecogs.com/gif.latex?\sqrt{\frac{1}{n}\sum_{i=0}^{n}(log(Pred_i+1)-log(Act_i-1))^2}" />
 - データ：train_data.csv, company_list.csv, submission_template.csv
+
+1. google-repo
+ - コンペ提出用
+2. train-folder
+ - 練習用
