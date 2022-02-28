@@ -1,4 +1,4 @@
-## 第19回_Beginner限定コンペ】国勢調査からの収入予測
+## [第19回_Beginner限定コンペ】国勢調査からの収入予測](https://signate.jp/competitions/576)
 
 - 最初LightGBMを使って実行したが合格ラインには届かなかった
 - 次にアンサンブルを考え、LightGBM、Ridge回帰、ランダムフォレスト、GBDT、CNNを試みたが合格ラインには届かず
