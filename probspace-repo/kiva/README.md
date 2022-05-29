@@ -3,9 +3,10 @@
 - 課題：2018,19年の過去2年の融資実績を訓練データとして、2020,21年の融資額を予測
 - 評価方法：MAE(平均絶対誤差)
  <img src="https://latex.codecogs.com/gif.latex?\frac{1}{n}\sum_{i=0}^{n}|\hat{y_i}-y_i|" />
-- データ：- 訓練テーブルデータ(train.csv)
+- データ：
+         - 訓練テーブルデータ(train.csv)
 		 - 訓練画像データ(train_images.zip)
-		 - テストテーブルデータ(train.csv)
+		 - テストテーブルデータ(test.csv)
 		 - テスト画像データ(test_images.zip)
          - サンプルサブミット用データ(sample_submission.csv)
 

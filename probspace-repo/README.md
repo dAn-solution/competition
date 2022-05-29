@@ -12,5 +12,5 @@ ProbSpaceコンペのリポジトリ
 - Kiva [クラウドファンディングの資金調達額予測](https://comp.probspace.com/competitions/kiva2021)(2022.2.14締切)
   - Public Score: 328.33805　Private Score:323.45572 53位
 
-- religiouspaint [民泊サービスの宿泊料金予測](https://comp.probspace.com/competitions/bnb_price)(2022.5.8締切)
+- airbnb [民泊サービスの宿泊料金予測](https://comp.probspace.com/competitions/bnb_price)(2022.5.8締切)
   - Public Score: 0.79979　Private Score:0.75123 36位
