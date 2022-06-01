@@ -1,4 +1,4 @@
-## airbnb／[民泊サービスの宿泊料金予測](https://comp.probspace.com/competitions/bnb_price/ranking) ProbSpace コンペティション
+## airbnb／[宗教画テーマの分類](https://comp.probspace.com/competitions/religious_art/ranking) ProbSpace コンペティション
 - 期間：2022.2.28 〜 2022.5.8
 - 課題：最寄り駅の位置情報などをもとに国内の民泊施設の料金を算出する。
 - 評価方法：RMSLE
