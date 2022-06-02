@@ -1,15 +1,11 @@
-## airbnb／[宗教画テーマの分類](https://comp.probspace.com/competitions/religious_art/ranking) ProbSpace コンペティション
-- 期間：2022.2.28 〜 2022.5.8
-- 課題：最寄り駅の位置情報などをもとに国内の民泊施設の料金を算出する。
-- 評価方法：RMSLE
- <img src="https://latex.codecogs.com/gif.latex?\sqrt{\frac{1}{n}{\sum_{i=1}^{n}{(\log(Pred_i+1)-\log(Act_i+1))^2}}}" />
-- データ：- 訓練データ(train_data.csv)
-		 - テストデータ(test_data.csv)
-		 - 東京都23区内駅緯度経度データ(station_list.csv)
-         - サンプルサブミット用データ(submission.csv)
+## [宗教画テーマの分類](https://comp.probspace.com/competitions/religious_art/ranking) ProbSpace コンペティション
 
+※はじめての参加コンペ。1年後からみても訳がわからずバタバタコーディングしていいる感じ。
+　記念にアップ。
 
-1. google-repo
- - コンペ提出用
-2. train-folder
- - 練習用
+- 期間：2021.6.28 〜 2021.9.12
+- 課題：「最後の晩餐」の様な、異なる時代や作者によって描かれた宗教画の題材を予測する。
+- 評価方法：accuracy(正解数/全サンプル数)
+- データ：- 訓練データ(christ-train-imgs.npz)
+         - 訓練データラベル(christ-train-labels.npz)
+         - テストデータ(christ-test-imgs.npz)
