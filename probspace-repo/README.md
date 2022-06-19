@@ -1,5 +1,5 @@
 # ProbSpace-rep
-ProbSpaceコンペのリポジトリ
+[ProbSpace](https://comp.probspace.com/)コンペのリポジトリ
 
 [dAn](https://comp.probspace.com/users/dAn/0) で参加
 
